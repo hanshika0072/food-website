@@ -33,6 +33,12 @@ jQuery("#carousel").owlCarousel({
 
     1366: {
       items: 3
+    },
+    992: {
+      items: 2
+    },
+    767: {
+      items: 2
     }
   }
 });
