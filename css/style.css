@@ -1051,8 +1051,8 @@ span.navbar-toggler-icon {
     width: 108px;
 }
 .about-image img {
-    max-width: 73%;
-    margin-right: -85px;
+    max-width: 0px;
+    margin-right: 0px;
 }
 .sec-3-content p {
     font-size: 12px;
