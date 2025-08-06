@@ -1011,11 +1011,15 @@ span.navbar-toggler-icon {
 }
 @media (max-width:430px){
     .content-sec-1 h2 {
-    font-size: 9px;
+    font-size:11px;
 }
 .click-me {
     right: 95px;
     top: 162px;
+}
+.main-cards {
+    padding: 12px;
+    padding-bottom: 39px;
 }
 }
 @media (max-width:360px){
