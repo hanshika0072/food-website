@@ -1022,6 +1022,18 @@ span.navbar-toggler-icon {
     padding-bottom: 39px;
 }
 }
+@media (max-width:390px){
+    .click-me {
+    right: 86px;
+    top: 186px;
+}
+.fit-me {
+    padding: 4px;
+}
+.content-sec-1 h2 {
+    font-size: 9px;
+}
+}
 @media (max-width:360px){
     .logo img {
     width: 73%;
